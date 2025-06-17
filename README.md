@@ -13,18 +13,14 @@ The approach accounts for the **shared responsibility model** and helps organiza
 
 ## Repository Contents
 
-- `literature-review/`  
-  Includes the full results of the literature study that identified top cloud risk domains and relevant control frameworks (SCF, CSA CCM, CIS, ISO 27017, NIST 800-53r5, OWASP).
+-  Includes the full results of the literature study that identified top cloud risk domains and relevant control frameworks (SCF, CSA CCM, CIS, ISO 27017, NIST 800-53r5, OWASP).
 
-- `delphi-study/`  
-  Contains anonymized Delphi study data and analysis used to validate maturity level classification of 183 cloud risk controls.
+- Contains anonymized Delphi study data and analysis used to validate maturity level classification of 183 cloud risk controls.
 
-- `case-study/`  
-  Includes supporting material and findings from the case study performed at a Dutch health insurance provider, applying the maturity model and assessment tool in an IaaS migration context.
-
-- `assessment-tool/`  
-  -  A clean version of the self-assessment tool for public use.
-  - The filled-in version completed by the participating organization as part of the case study.
+- Includes supporting material and findings from the case study performed at a Dutch health insurance provider, applying the maturity model and assessment tool in an IaaS migration context.
+ 
+-  A clean version of the self-assessment tool
+- The filled-in version completed by the participating organization as part of the case study.
 
 ## License
 
